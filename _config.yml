@@ -1,0 +1,32 @@
+# Site Settings
+title:               What even is code?
+tagline:             thoughts by Phuc
+description:
+baseurl:            #"/Lagrange"
+url:                #"https://lenpaul.github.io"
+github:
+  url:               #"https://lenpaul.github.io/Lagrange"
+author:
+  name:              "Phuc Le"
+  email:             "le.phuc.h@gmail.com"
+  twitter:           "phucmycode"
+  # instagram:         ""
+  github:            "phuchle"
+  # facebook:          ""
+  linkedin:          "phuc-le-a0381b93"
+navigation:
+- title: About
+  url: /about
+- title: Archive
+  url: /archive
+- title: Contact
+  url: /contact
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
