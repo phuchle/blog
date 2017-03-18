@@ -122,8 +122,13 @@ blockquote p {
 */
 
 .masthead {
+  max-width: 800px;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 4rem;
   font-family: "Quattrocento Sans", sans-serif;
 }
@@ -262,7 +267,7 @@ blockquote p {
   font-size: 1rem;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 25em) {
   .social-icons {
     float: left;
     padding-top: 0.5rem;
