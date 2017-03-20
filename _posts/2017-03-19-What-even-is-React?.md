@@ -33,6 +33,6 @@ As a beginner, the leap in tooling was overwhelming.  I made it roughly halfway 
 
   React is usually written in JSX and since the browser cannot understand JSX, we need something to transform it into regular, old JavaScript.  That's exactly what Babel does and it's used with Webpack in the build step (many JSX files come in, one vanilla JavaScript file comes out).
 
-I feel a lot better about my grasp on the function of these tools and will be diving deeper into the details of how they work.  I hope you have left with a better understanding of the React ecosystem as well.  :simple_smile:
+I feel a lot better about my grasp on the function of these tools and will be diving deeper into the details of how they work.  I hope you have left with a better understanding of the React ecosystem as well.  :smile:
 
 [Andrew Ray Webpack]: http://blog.andrewray.me/webpack-when-to-use-and-why/
